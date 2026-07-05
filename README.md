@@ -19,7 +19,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 📌 Proyectos destacados
-- 🃏 **Next Dimension TCG** — automatización de contenido para torneos de Yu-Gi-Oh (Python/Pillow)
+- 🃏 **YGOGuesser** — Bot de Discord hecho con Python
 - 📈 Explorando forecasting de stock/ventas con Statsforecast y LightGBM
 
 ## 📫 Contacto
