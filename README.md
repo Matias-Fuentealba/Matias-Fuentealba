@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Matías Fuentealba 👋
 
-<!--
-**Matias-Fuentealba/Matias-Fuentealba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analyst/Software Developer en I&A Tecnología, desde Melipilla, Chile 🇨🇱
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 🔧 Trabajo con procesamiento de eventos GPS en tiempo real (Python + Kafka)
+- 🌐 Desarrollo web con PHP, incluyendo facturación electrónica
+- 📊 Forecasting de ventas con Prophet
+- ☁️ Despliegos en Linux / AWS EC2
+- 🎓 Analista Programador (Duoc UC, 2023)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 📌 Proyectos destacados
+- 🃏 **Next Dimension TCG** — automatización de contenido para torneos de Yu-Gi-Oh (Python/Pillow)
+- 📈 Explorando forecasting de stock/ventas con Statsforecast y LightGBM
+
+## 📫 Contacto
+- LinkedIn: www.linkedin.com/in/matiasfuentealba
+
+---
+![Perfil views](https://komarev.com/ghpvc/?username=Matias-Fuentealba&color=blue)
